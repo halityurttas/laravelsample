@@ -1,5 +1,5 @@
 #Warning
-This project is copy for learning. Do not use for production!
+This project is copy for personal study. Do not use for production!
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
